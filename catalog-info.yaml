@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test1.30.4
+  title: Asdfadsf
+  description: A static HTML website. Just like the good old days.
+  links:
+    - url: https://RoadieHQ.github.io/test1.30.4/
+      title: Live website
+  annotations:
+    github.com/project-slug: RoadieHQ/test1.30.4
+spec:
+  type: website
+  owner: user:dtuite
+  lifecycle: experimental

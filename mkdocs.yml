@@ -1,0 +1,8 @@
+site_name: Asdfadsf
+
+nav:
+  - Home: index.md
+
+plugins:
+  - monorepo
+  - techdocs-core
