@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test1.30.4
-  title: Asdfadsf
+  title: Updated 1
   description: A static HTML website. Just like the good old days.
   links:
     - url: https://RoadieHQ.github.io/test1.30.4/
